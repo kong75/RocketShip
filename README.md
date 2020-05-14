@@ -9,9 +9,10 @@
 ## 腾讯：
 
 ### 微信事业群（WXG）🚀
-
+	开放平台🚀🚀
+	微信支付🚀🚀
 ### 企业发展事业群（CDG）🚀
-
+	AMS（广告营销业务线）🚀🚀
 
 ## 阿里巴巴：
 
@@ -19,10 +20,12 @@
 	飞天八部🚀🚀
 		
 ### 阿里妈妈🚀
+	营销技术中心🚀🚀
 
 ## 字节跳动：
 ### IES (Interactive Entertainment Service)🚀
 	抖音🚀🚀
 ### Monetization🚀
+	商业产品🚀🚀
 ### R&D (Research & Development)
 	UG (User Growth)🚀
