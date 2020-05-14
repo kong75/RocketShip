@@ -6,16 +6,23 @@
 
 目前的信息整理自多个平台（脉脉，知乎，看准网等），如有更新建议，欢迎提pull request或在issue中提出。
 
-## 🐧腾讯：
+## 腾讯：
 
-	🔥微信事业群（WXG）
+# 🔥微信事业群（WXG）
 
-	🔥企业发展事业群（CDG）
+# 🔥企业发展事业群（CDG）
 
 
-## 🐱阿里巴巴：
+## 阿里巴巴：
 
-	🔥阿里云
-		🔥飞天八部
+### 🔥阿里云
+	🔥🔥飞天八部
 		
-	🔥阿里妈妈
+### 🔥阿里妈妈
+
+## 字节跳动：
+### 🔥IES (Interactive Entertainment Service)
+	🔥🔥抖音
+### 🔥Monetization
+### R&D (Research & Development)
+	🔥UG (User Growth)
