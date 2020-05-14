@@ -1,4 +1,4 @@
-# Project RocketShip
+# Project Rocketship
 
 帮助互联网从业者快速找到最具发展前景的业务部门，降低信息不对称。
 
